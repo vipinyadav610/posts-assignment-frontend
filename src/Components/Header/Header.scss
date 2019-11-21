@@ -1,0 +1,20 @@
+.header-wrapper {
+  background: #118ac3;
+  padding: 0px;
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 30px;
+
+    .logout-wrapper {
+      display: flex;
+      .btn-login {
+        margin-right: 10px;
+      }
+      .logout-content {
+        cursor: pointer;
+      }
+    }
+  }
+}
