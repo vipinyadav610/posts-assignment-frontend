@@ -1,5 +1,3 @@
-[![codebeat badge](https://codebeat.co/badges/7b2de4c7-8fac-40ab-8550-c949a3153d4a)](https://codebeat.co/a/impekable-2/projects/gitlab-impekable-cloud-pulse-react-dashboard-develop)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
